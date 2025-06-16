@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Welcome
+title: r4ndondev
 ---
 
-# Hello World
-
-Welcome to my GitHub Pages site using Jekyll!
+# Raandomsdevs Website
+This site is the official website for all my projects.
+Current Projects:
+- Task-Recorder
